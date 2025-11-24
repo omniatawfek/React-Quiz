@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🧠 React Quiz App
 
-## Available Scripts
+A modern, interactive quiz application built with React.
 
-In the project directory, you can run:
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔗 Live Demo
 
-### `npm test`
+👉 **Live Link:** _(https://lnxlk01k-3000.uks1.devtunnels.ms/)_
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ✨ Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 🎯 **Multiple-choice quiz questions**
+- 📊 **Progress tracking** with progress bar
+- ⏱️ **Timer** for each question
+- ✔️ **Answer validation** (correct/wrong states)
+- 🧮 **Final scoring system**
+- 🏆 **Highscore saved automatically**
+- 🔄 **Elegant loading indicator**
+- 🎨 **Clean UI using CSS variables **
+- ⚛️ **Modern React architecture (Components + Hooks)**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Tech Stack
 
-### `npm run eject`
+| Technology           | Used For             |
+| -------------------- | -------------------- |
+| **React**            | UI & Component Logic |
+| **JavaScript (ES6)** | App functionality    |
+| **CSS**              | Styling & Layout     |
+| **JSON**             | Quiz Data            |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📦 Installation & Setup
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Clone the repository:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+git clone https://github.com/omniatawfek/React-Quiz.git
+```
 
-## Learn More
+Navigate into the project:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+cd React-Quiz
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Install dependencies:
 
-### Code Splitting
+```bash
+npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Start the development server:
 
-### Analyzing the Bundle Size
+```bash
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Build for production:
 
-### Making a Progressive Web App
+```bash
+npm run build
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+📁 Folder Structure
 
-### Advanced Configuration
+React-Quiz/
+│
+├── public/
+├── src/
+│ ├── components/ # UI Components
+│ ├── data/ # Questions data
+│ ├── App.js # Main App logic
+│ ├── App.css # Global styling
+│ └── index.js # App entry point
+│
+└── package.json
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+📝 License
+This project is MIT Licensed — free to use & modify.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center">
+💛 Made with passion by Omnia Tawfek
+</div>
