@@ -12,12 +12,6 @@ A modern, interactive quiz application built with React.
 
 ---
 
-## 🔗 Live Demo
-
-👉 **Live Link:** _(https://lnxlk01k-3000.uks1.devtunnels.ms/)_
-
----
-
 ## ✨ Features
 
 - 🎯 **Multiple-choice quiz questions**
